@@ -1,0 +1,1551 @@
+fileFormatVersion: 2
+guid: fb34df1e94340954ead20161c2e9e1a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5546671543968653177
+    second: SpriteSheet_0
+  - first:
+      213: 8755591262435691780
+    second: SpriteSheet_1
+  - first:
+      213: -3459558614108198297
+    second: SpriteSheet_2
+  - first:
+      213: 659797372610145418
+    second: SpriteSheet_3
+  - first:
+      213: -689520407193891599
+    second: SpriteSheet_4
+  - first:
+      213: 160890277334083914
+    second: SpriteSheet_5
+  - first:
+      213: 1026407549584056185
+    second: SpriteSheet_6
+  - first:
+      213: -3086720242725003937
+    second: SpriteSheet_7
+  - first:
+      213: -4556197565260342421
+    second: SpriteSheet_8
+  - first:
+      213: -2764029711273647405
+    second: SpriteSheet_9
+  - first:
+      213: -5540648042656198855
+    second: SpriteSheet_10
+  - first:
+      213: 3929453942698372637
+    second: SpriteSheet_11
+  - first:
+      213: 8058879627694289943
+    second: SpriteSheet_12
+  - first:
+      213: 6833624519701456044
+    second: SpriteSheet_13
+  - first:
+      213: 4050273695720440628
+    second: SpriteSheet_14
+  - first:
+      213: -8516189750247450741
+    second: SpriteSheet_15
+  - first:
+      213: -4768450242260759221
+    second: SpriteSheet_16
+  - first:
+      213: -5521112282276127969
+    second: SpriteSheet_17
+  - first:
+      213: -8541409857757731410
+    second: SpriteSheet_18
+  - first:
+      213: -3472991853938201931
+    second: SpriteSheet_19
+  - first:
+      213: 6310945038506529798
+    second: SpriteSheet_20
+  - first:
+      213: 299985813260920670
+    second: SpriteSheet_21
+  - first:
+      213: 8784019252837020500
+    second: SpriteSheet_22
+  - first:
+      213: -5692808054993777421
+    second: SpriteSheet_23
+  - first:
+      213: -3647626148071368089
+    second: SpriteSheet_24
+  - first:
+      213: 3740191742173349062
+    second: SpriteSheet_25
+  - first:
+      213: -5489517133611239331
+    second: SpriteSheet_26
+  - first:
+      213: -1271462477897197946
+    second: SpriteSheet_27
+  - first:
+      213: 974577563860017414
+    second: SpriteSheet_28
+  - first:
+      213: 2486827473776425114
+    second: SpriteSheet_29
+  - first:
+      213: -6614553410548192088
+    second: SpriteSheet_30
+  - first:
+      213: 8361751297272463746
+    second: SpriteSheet_31
+  - first:
+      213: -4598120355091656921
+    second: SpriteSheet_32
+  - first:
+      213: 7099261525860559180
+    second: SpriteSheet_33
+  - first:
+      213: -8215722657267735165
+    second: SpriteSheet_34
+  - first:
+      213: 6025432222443554310
+    second: SpriteSheet_35
+  - first:
+      213: 8289768022458011462
+    second: SpriteSheet_36
+  - first:
+      213: 8679224743372824947
+    second: SpriteSheet_37
+  - first:
+      213: -4273276076692731511
+    second: SpriteSheet_38
+  - first:
+      213: -3031591476522573043
+    second: SpriteSheet_39
+  - first:
+      213: 6497019688765925324
+    second: SpriteSheet_40
+  - first:
+      213: 244501058832009928
+    second: SpriteSheet_41
+  - first:
+      213: 7219066547588084184
+    second: SpriteSheet_42
+  - first:
+      213: -1517539347721397750
+    second: SpriteSheet_43
+  - first:
+      213: -6298986058642862026
+    second: SpriteSheet_44
+  - first:
+      213: -6855937049084916964
+    second: SpriteSheet_45
+  - first:
+      213: -5974330689473217505
+    second: SpriteSheet_46
+  - first:
+      213: 8090335375369496866
+    second: SpriteSheet_47
+  - first:
+      213: 4797463210970005564
+    second: SpriteSheet_48
+  - first:
+      213: -6076800551345269519
+    second: SpriteSheet_49
+  - first:
+      213: -5692022439710868814
+    second: SpriteSheet_50
+  - first:
+      213: -735721280079296861
+    second: SpriteSheet_51
+  - first:
+      213: 8626295676608811214
+    second: SpriteSheet_52
+  - first:
+      213: -4395729614481908416
+    second: SpriteSheet_53
+  - first:
+      213: -3856703243772173698
+    second: SpriteSheet_54
+  - first:
+      213: 2573680409823022928
+    second: SpriteSheet_55
+  - first:
+      213: -2113894915680229263
+    second: SpriteSheet_56
+  - first:
+      213: -1569871411453203166
+    second: SpriteSheet_57
+  - first:
+      213: 7413646742071866149
+    second: SpriteSheet_58
+  - first:
+      213: 7851113030376596135
+    second: SpriteSheet_59
+  - first:
+      213: -3141680586608123305
+    second: SpriteSheet_60
+  - first:
+      213: 3021200732435110644
+    second: SpriteSheet_61
+  - first:
+      213: 5169811298419766961
+    second: SpriteSheet_62
+  - first:
+      213: 1815293632669626553
+    second: SpriteSheet_63
+  - first:
+      213: 4403123471519957660
+    second: SpriteSheet_64
+  - first:
+      213: -740330472280341754
+    second: SpriteSheet_65
+  - first:
+      213: 574446148126647275
+    second: SpriteSheet_66
+  - first:
+      213: 1235874337418114886
+    second: SpriteSheet_67
+  - first:
+      213: 7434960351050355323
+    second: SpriteSheet_68
+  - first:
+      213: 824356400910527634
+    second: SpriteSheet_69
+  - first:
+      213: 5513838114274322276
+    second: SpriteSheet_70
+  - first:
+      213: -3199715790774524361
+    second: SpriteSheet_71
+  - first:
+      213: 1914563275169840824
+    second: SpriteSheet_72
+  - first:
+      213: -4378996295949237452
+    second: SpriteSheet_73
+  - first:
+      213: 5457183550987407018
+    second: SpriteSheet_74
+  - first:
+      213: 6335360754331110017
+    second: SpriteSheet_75
+  - first:
+      213: 7222537069723327875
+    second: SpriteSheet_76
+  - first:
+      213: 2669869789316320289
+    second: SpriteSheet_77
+  - first:
+      213: -4401392294409562214
+    second: SpriteSheet_78
+  - first:
+      213: -1504178909458899807
+    second: SpriteSheet_79
+  - first:
+      213: -1680910415198251487
+    second: SpriteSheet_80
+  - first:
+      213: 259971794018114871
+    second: SpriteSheet_81
+  - first:
+      213: -8967083802194223982
+    second: SpriteSheet_82
+  - first:
+      213: -332775548261697083
+    second: SpriteSheet_83
+  - first:
+      213: 4931685296756513552
+    second: SpriteSheet_84
+  - first:
+      213: -5332477682625526632
+    second: SpriteSheet_85
+  - first:
+      213: -7110964374204439647
+    second: SpriteSheet_86
+  - first:
+      213: -7446906405079736297
+    second: SpriteSheet_87
+  - first:
+      213: 4120251076616230861
+    second: SpriteSheet_88
+  - first:
+      213: 3075932930824612872
+    second: SpriteSheet_89
+  - first:
+      213: -3336083728469882985
+    second: SpriteSheet_90
+  - first:
+      213: 237302907797614667
+    second: SpriteSheet_91
+  - first:
+      213: -4138009372153320744
+    second: SpriteSheet_92
+  - first:
+      213: 7633654532641064657
+    second: SpriteSheet_93
+  - first:
+      213: 5430743998967427626
+    second: SpriteSheet_94
+  - first:
+      213: -101211121952396709
+    second: SpriteSheet_95
+  - first:
+      213: 3664476683137694898
+    second: SpriteSheet_96
+  - first:
+      213: 2177870221934184097
+    second: SpriteSheet_97
+  - first:
+      213: -9016946094802586908
+    second: SpriteSheet_98
+  - first:
+      213: -1174045761442754080
+    second: SpriteSheet_99
+  - first:
+      213: -7866031555861458757
+    second: SpriteSheet_100
+  - first:
+      213: 6783973438557096381
+    second: SpriteSheet_101
+  - first:
+      213: -221214031347197673
+    second: SpriteSheet_102
+  - first:
+      213: -7491613937437866971
+    second: SpriteSheet_103
+  - first:
+      213: 7093715425317752191
+    second: SpriteSheet_104
+  - first:
+      213: 792531038351565978
+    second: SpriteSheet_105
+  - first:
+      213: 7929823768701145548
+    second: SpriteSheet_106
+  - first:
+      213: -2354785544754498944
+    second: SpriteSheet_107
+  - first:
+      213: 6139310979476247574
+    second: SpriteSheet_108
+  - first:
+      213: 543463543827397990
+    second: SpriteSheet_109
+  - first:
+      213: -6592721875813713672
+    second: SpriteSheet_110
+  - first:
+      213: -4881886091595114325
+    second: SpriteSheet_111
+  - first:
+      213: -7912813274520506195
+    second: SpriteSheet_112
+  - first:
+      213: 720741883187527302
+    second: SpriteSheet_113
+  - first:
+      213: 3819579681194510889
+    second: SpriteSheet_114
+  - first:
+      213: -3616014075654153681
+    second: SpriteSheet_115
+  - first:
+      213: 1317317968668436404
+    second: SpriteSheet_116
+  - first:
+      213: -6120387634488855516
+    second: SpriteSheet_117
+  - first:
+      213: 640638355575074940
+    second: SpriteSheet_118
+  - first:
+      213: 7214810665799466888
+    second: SpriteSheet_119
+  - first:
+      213: 3800181639119787870
+    second: SpriteSheet_120
+  - first:
+      213: -5445997897813723297
+    second: SpriteSheet_121
+  - first:
+      213: -3402517079406010240
+    second: SpriteSheet_122
+  - first:
+      213: -5755905173179906151
+    second: SpriteSheet_123
+  - first:
+      213: 7043133548349567394
+    second: SpriteSheet_124
+  - first:
+      213: -9214683214358106073
+    second: SpriteSheet_125
+  - first:
+      213: -5263981999200424552
+    second: SpriteSheet_126
+  - first:
+      213: 5949010832896320232
+    second: SpriteSheet_127
+  - first:
+      213: -2799502422476937494
+    second: SpriteSheet_128
+  - first:
+      213: 3222232815831790375
+    second: SpriteSheet_129
+  - first:
+      213: 2454006695083939952
+    second: SpriteSheet_130
+  - first:
+      213: -8763460402479013231
+    second: SpriteSheet_131
+  - first:
+      213: 5216005266871980692
+    second: SpriteSheet_132
+  - first:
+      213: -4336655937792303754
+    second: SpriteSheet_133
+  - first:
+      213: 5321439304353008762
+    second: SpriteSheet_134
+  - first:
+      213: 8912184891225659665
+    second: SpriteSheet_135
+  - first:
+      213: -6109553362656107089
+    second: SpriteSheet_136
+  - first:
+      213: 1434016185412249102
+    second: SpriteSheet_137
+  - first:
+      213: 7558000732482870499
+    second: SpriteSheet_138
+  - first:
+      213: 4786681815604014590
+    second: SpriteSheet_139
+  - first:
+      213: 357286527779173287
+    second: SpriteSheet_140
+  - first:
+      213: -169803676933302921
+    second: SpriteSheet_141
+  - first:
+      213: 5626676942189501251
+    second: SpriteSheet_142
+  - first:
+      213: 7575490143863281063
+    second: SpriteSheet_143
+  - first:
+      213: -6777356310948227512
+    second: SpriteSheet_144
+  - first:
+      213: 2256298533257005358
+    second: SpriteSheet_145
+  - first:
+      213: -9178306864000716681
+    second: SpriteSheet_146
+  - first:
+      213: 2400579655985509665
+    second: SpriteSheet_147
+  - first:
+      213: -685214528091846628
+    second: SpriteSheet_148
+  - first:
+      213: -3969464346736057863
+    second: SpriteSheet_149
+  - first:
+      213: 3788575541522960178
+    second: SpriteSheet_150
+  - first:
+      213: -1618865760267735202
+    second: SpriteSheet_151
+  - first:
+      213: -6141620532273264172
+    second: SpriteSheet_152
+  - first:
+      213: -6149246067559879764
+    second: SpriteSheet_153
+  - first:
+      213: 4169411783847936372
+    second: SpriteSheet_154
+  - first:
+      213: 692916972302859487
+    second: SpriteSheet_155
+  - first:
+      213: -1585889628771314059
+    second: SpriteSheet_156
+  - first:
+      213: 957010546899359418
+    second: SpriteSheet_157
+  - first:
+      213: -5901355953262395968
+    second: SpriteSheet_158
+  - first:
+      213: -2812676215503841580
+    second: SpriteSheet_159
+  - first:
+      213: -2747994471818758606
+    second: SpriteSheet_160
+  - first:
+      213: -2681679347411578318
+    second: SpriteSheet_161
+  - first:
+      213: 2218104206478000943
+    second: SpriteSheet_162
+  - first:
+      213: 7205548520106831391
+    second: SpriteSheet_163
+  - first:
+      213: -6189634757179325379
+    second: SpriteSheet_164
+  - first:
+      213: 398766621343831478
+    second: SpriteSheet_165
+  - first:
+      213: 7810386672636520946
+    second: SpriteSheet_166
+  - first:
+      213: 3857234065337388221
+    second: SpriteSheet_167
+  - first:
+      213: 2846755446133648665
+    second: SpriteSheet_168
+  - first:
+      213: 4641492112899218028
+    second: SpriteSheet_169
+  - first:
+      213: -2114969809627955462
+    second: SpriteSheet_170
+  - first:
+      213: 6658602626501431685
+    second: SpriteSheet_171
+  - first:
+      213: 9081151382435167134
+    second: SpriteSheet_172
+  - first:
+      213: -8591010074564563565
+    second: SpriteSheet_173
+  - first:
+      213: -3705291549145569196
+    second: SpriteSheet_174
+  - first:
+      213: 6343025358669376226
+    second: SpriteSheet_175
+  - first:
+      213: 7619495285826691685
+    second: SpriteSheet_176
+  - first:
+      213: 6479714128885920242
+    second: SpriteSheet_177
+  - first:
+      213: 8762979994364277361
+    second: SpriteSheet_178
+  - first:
+      213: 7501586277352024372
+    second: SpriteSheet_179
+  - first:
+      213: 6292078881015857177
+    second: SpriteSheet_180
+  - first:
+      213: -1552155774418116299
+    second: SpriteSheet_181
+  - first:
+      213: 681661689642718137
+    second: SpriteSheet_182
+  - first:
+      213: 6097681656409235848
+    second: SpriteSheet_183
+  - first:
+      213: -2841798097896068490
+    second: SpriteSheet_184
+  - first:
+      213: -8659496454784472053
+    second: SpriteSheet_185
+  - first:
+      213: -3401043444718998653
+    second: SpriteSheet_186
+  - first:
+      213: 7472614953848303049
+    second: SpriteSheet_187
+  - first:
+      213: -2781114955752488324
+    second: SpriteSheet_188
+  - first:
+      213: -4065767385415182944
+    second: SpriteSheet_189
+  - first:
+      213: 6381861059760669359
+    second: SpriteSheet_190
+  - first:
+      213: -7013910024743861437
+    second: SpriteSheet_191
+  - first:
+      213: -8730231692984802868
+    second: SpriteSheet_192
+  - first:
+      213: 2382400672917186611
+    second: SpriteSheet_193
+  - first:
+      213: -4670724093869182305
+    second: SpriteSheet_194
+  - first:
+      213: 1868818895231849503
+    second: SpriteSheet_195
+  - first:
+      213: 4841545508341194271
+    second: SpriteSheet_196
+  - first:
+      213: -572114191769764109
+    second: SpriteSheet_197
+  - first:
+      213: 6075832693008659152
+    second: SpriteSheet_198
+  - first:
+      213: -7031781851376510243
+    second: SpriteSheet_199
+  - first:
+      213: 8509693838206513423
+    second: SpriteSheet_200
+  - first:
+      213: -981720603208689936
+    second: SpriteSheet_201
+  - first:
+      213: 626035762396133777
+    second: SpriteSheet_202
+  - first:
+      213: 5199191754792244096
+    second: SpriteSheet_203
+  - first:
+      213: 2079617485199575286
+    second: SpriteSheet_204
+  - first:
+      213: 7648910849467006675
+    second: SpriteSheet_205
+  - first:
+      213: -982652687152984134
+    second: SpriteSheet_206
+  - first:
+      213: -2156383727643743694
+    second: SpriteSheet_207
+  - first:
+      213: -1925831799145823428
+    second: SpriteSheet_208
+  - first:
+      213: 3956945362307432822
+    second: SpriteSheet_209
+  - first:
+      213: -4386433423324854753
+    second: SpriteSheet_210
+  - first:
+      213: -8631826605804175562
+    second: SpriteSheet_211
+  - first:
+      213: -4302864933764127010
+    second: SpriteSheet_212
+  - first:
+      213: -2135548882466990870
+    second: SpriteSheet_213
+  - first:
+      213: -5748132149856320482
+    second: SpriteSheet_214
+  - first:
+      213: 3878848038793521218
+    second: SpriteSheet_215
+  - first:
+      213: 5566647065687696997
+    second: SpriteSheet_216
+  - first:
+      213: 648416597587195911
+    second: SpriteSheet_217
+  - first:
+      213: 3603108947967203282
+    second: SpriteSheet_218
+  - first:
+      213: 4528423234181010878
+    second: SpriteSheet_219
+  - first:
+      213: -2397037871520596963
+    second: SpriteSheet_220
+  - first:
+      213: -3531152483941662259
+    second: SpriteSheet_221
+  - first:
+      213: -8681072723641557455
+    second: SpriteSheet_222
+  - first:
+      213: 1205310492832273221
+    second: SpriteSheet_223
+  - first:
+      213: 6030864874694375666
+    second: SpriteSheet_224
+  - first:
+      213: -7907939524558502639
+    second: SpriteSheet_225
+  - first:
+      213: -2664864605638925870
+    second: SpriteSheet_226
+  - first:
+      213: 7728245962337641965
+    second: SpriteSheet_227
+  - first:
+      213: 7397990801209817853
+    second: SpriteSheet_228
+  - first:
+      213: 8377990665198899297
+    second: SpriteSheet_229
+  - first:
+      213: -5830185567085868708
+    second: SpriteSheet_230
+  - first:
+      213: 8673062825086186017
+    second: SpriteSheet_231
+  - first:
+      213: -495264860520991616
+    second: SpriteSheet_232
+  - first:
+      213: -3877609369195184826
+    second: SpriteSheet_233
+  - first:
+      213: 5370150025470414776
+    second: SpriteSheet_234
+  - first:
+      213: -8775581003014757670
+    second: SpriteSheet_235
+  - first:
+      213: 3167356857442083912
+    second: SpriteSheet_236
+  - first:
+      213: -7008107117246880345
+    second: SpriteSheet_237
+  - first:
+      213: -6448349922783666975
+    second: SpriteSheet_238
+  - first:
+      213: -8856452872618539840
+    second: SpriteSheet_239
+  - first:
+      213: 3859043241047525037
+    second: SpriteSheet_240
+  - first:
+      213: 6050749177083580947
+    second: SpriteSheet_241
+  - first:
+      213: 6137820477212843681
+    second: SpriteSheet_242
+  - first:
+      213: -4582587383406606220
+    second: SpriteSheet_243
+  - first:
+      213: 6035732012677696730
+    second: SpriteSheet_244
+  - first:
+      213: -7103944020759386914
+    second: SpriteSheet_245
+  - first:
+      213: -6849860813273606399
+    second: SpriteSheet_246
+  - first:
+      213: 5396454996012025814
+    second: SpriteSheet_247
+  - first:
+      213: -7004397897447082791
+    second: SpriteSheet_248
+  - first:
+      213: -6501387184400831913
+    second: SpriteSheet_249
+  - first:
+      213: -6567543809375830295
+    second: SpriteSheet_250
+  - first:
+      213: 5865449037714878575
+    second: SpriteSheet_251
+  - first:
+      213: -2147800758289372321
+    second: SpriteSheet_252
+  - first:
+      213: 5986030973748356752
+    second: Explosion_0
+  - first:
+      213: -5600206312213581617
+    second: Explosion_1
+  - first:
+      213: 3815954189206336483
+    second: Explosion_2
+  - first:
+      213: -3690502768834906923
+    second: Explosion_3
+  - first:
+      213: -49130668184793455
+    second: ignore76
+  - first:
+      213: -2330519403281856691
+    second: ignore6
+  - first:
+      213: -4796932125324312052
+    second: ignore87
+  - first:
+      213: 4348620978117878488
+    second: ignore7
+  - first:
+      213: 7788287979965792003
+    second: Explosion_8
+  - first:
+      213: -5876230404456235001
+    second: Expignore
+  - first:
+      213: -7061159883300251746
+    second: ignore1
+  - first:
+      213: 497560801652076451
+    second: ignore11
+  - first:
+      213: -222035745519106718
+    second: ignore34
+  - first:
+      213: -5197271548307897853
+    second: Explosion_13
+  - first:
+      213: -3806839202968226997
+    second: ignore45
+  - first:
+      213: 1213653969873606975
+    second: ignore
+  - first:
+      213: -4915350518889871028
+    second: ignore2
+  - first:
+      213: -966352174932169086
+    second: Explosignore3
+  - first:
+      213: 5240812164920822625
+    second: Explosion_1ignore18
+  - first:
+      213: -293603124231823741
+    second: Explosioignore3456
+  - first:
+      213: 6340498610658388462
+    second: ignorew
+  - first:
+      213: -8875219262236141736
+    second: ignore21
+  - first:
+      213: -3137233733933034950
+    second: 23212
+  - first:
+      213: -6028636648774303401
+    second: ignore345
+  - first:
+      213: 7046362073872118415
+    second: Explosion_2ignore
+  - first:
+      213: -5906555199896510693
+    second: Explosion_
+  - first:
+      213: -880289961269940256
+    second: Explosion_4
+  - first:
+      213: -1849775667273832808
+    second: Explosion_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 25
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a1cc8477a21350800000000000000
+      internalID: 5986030973748356752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 25
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0fb9bb7021842b0800000000000000
+      internalID: -5600206312213581617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 25
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3bec60e1ef4f430800000000000000
+      internalID: 3815954189206336483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 3
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4fffce843b8ccc0800000000000000
+      internalID: -3690502768834906923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 51
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e8447eae3715ff0800000000000000
+      internalID: -49130668184793455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 20
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ca3943f458afd0800000000000000
+      internalID: -2330519403281856691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 88
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c028262b5afdd6db0800000000000000
+      internalID: -4796932125324312052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 13
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d227875db7695c30800000000000000
+      internalID: 4348620978117878488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f3e4657ae851c60800000000000000
+      internalID: 7788287979965792003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Expignore
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700490ca49f637ea0800000000000000
+      internalID: -5876230404456235001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9756ad6f78b10e90800000000000000
+      internalID: -7061159883300251746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af61a4b9e0b7e600800000000000000
+      internalID: 497560801652076451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26505e47aab2becf0800000000000000
+      internalID: -222035745519106718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3020dd920159fd7b0800000000000000
+      internalID: -5197271548307897853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433c061ae36b2bc0800000000000000
+      internalID: -3806839202968226997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f391f8afad3c7d010800000000000000
+      internalID: 1213653969873606975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498907eeba29cbb0800000000000000
+      internalID: -4915350518889871028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosignore3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eed3d11d3d692f0800000000000000
+      internalID: -966352174932169086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_1ignore18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc6a0a5ea1bb840800000000000000
+      internalID: 5240812164920822625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosioignore3456
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e973b9389ecebf0800000000000000
+      internalID: -293603124231823741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignorew
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 59
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a62b94e9fdf750800000000000000
+      internalID: 6340498610658388462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857d5ba9a13e4d480800000000000000
+      internalID: -8875219262236141736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23212
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.68241376, y: 0.46199593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a329c8f6a8e4674d0800000000000000
+      internalID: -3137233733933034950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ignore345
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75108e5b8eaf55ca0800000000000000
+      internalID: -6028636648774303401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_2ignore
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 41
+        height: 1
+      alignment: 9
+      pivot: {x: 0.48311022, y: 0.57355416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82bee319f4b9c160800000000000000
+      internalID: 7046362073872118415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 24
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f9ee70753b70ea0800000000000000
+      internalID: -5906555199896510693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 24
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efa927b1f498c3f0800000000000000
+      internalID: -880289961269940256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 25
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8966bf5c4d64456e0800000000000000
+      internalID: -1849775667273832808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

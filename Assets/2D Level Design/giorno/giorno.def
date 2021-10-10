@@ -1,0 +1,32 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="GiornoMVC"
+displayname ="Giorno Giovanna"
+versiondate =01,01,2010
+mugenversion =1.0
+author ="Kenshiro99"
+pal.defaults =1,2,3,4,5,6,7,8,9,10,11,12
+
+[Files]
+sprite =giorno.sff
+anim =giorno.air
+sound =giorno.snd
+cmd =giorno.cmd
+cns =giorno.cns
+stcommon =common1.cns
+st =giorno.cns
+pal1=giorno.act
+pal2=Giornobr.act
+pal3=Giornobw.act
+pal4=Giornodb.act
+pal5=Giornodg.act
+pal6=Giornodp.act
+st1=VS_Engine.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

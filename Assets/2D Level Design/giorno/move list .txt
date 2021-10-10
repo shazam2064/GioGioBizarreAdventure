@@ -1,0 +1,22 @@
+                              Giorno Giovanna
+                             by  Kenshiro99
+
+
+============================== MOVELIST ====================================
+
+Gold Experience Scorpions: D, DB, B + punch ( can use in air )
+Gold Experience Barrage: D, DF, F + Punch ( can use in air )
+Gold Experience Counter:  D, DB, B +kick
+Gold Experience Kick:  D, DF, F +kick ( only in air )
+Flower; D, D, D + kick
+
+HYPER COMBOS:
+Gold Experience Assault: D, DF, F 2 Punches
+Gold Experience barrier: D, DB, B 2 Kickes
+Gold Experience Rock attack: D, DB, B 2 Punches
+
+======[SYSTEM MOVES]:
+
+Super Jump: D, U or 3 Kicks [Only "U" after you hit a launcher]
+Dash/Hop Backward: FF/BB
+Advancing Guard: 2 PUNCHES in Guard

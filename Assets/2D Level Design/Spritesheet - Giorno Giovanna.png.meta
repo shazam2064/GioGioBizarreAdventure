@@ -1,0 +1,4578 @@
+fileFormatVersion: 2
+guid: 1c8af418a045b114085633210a00ee53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7970005185825480459
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_0
+  - first:
+      213: -3433470519690732755
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_1
+  - first:
+      213: -1455255268387159687
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_2
+  - first:
+      213: 1100394174960872199
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_3
+  - first:
+      213: -4735384744179843250
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_4
+  - first:
+      213: -1181525237795653807
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_5
+  - first:
+      213: -4178703758976438605
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_6
+  - first:
+      213: -4444612600604413141
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_7
+  - first:
+      213: 2825454935156108249
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_8
+  - first:
+      213: -3414659827204220946
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_9
+  - first:
+      213: 4679937675781939739
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_10
+  - first:
+      213: 3882131212586550751
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_11
+  - first:
+      213: -3205856954878163931
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_12
+  - first:
+      213: -7067174133825093347
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_13
+  - first:
+      213: -4588059983301051961
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_14
+  - first:
+      213: -3928624824541486547
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_15
+  - first:
+      213: -8143926372494621881
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_16
+  - first:
+      213: -6902520405468826596
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_17
+  - first:
+      213: -4902571762966967188
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_18
+  - first:
+      213: 1055685241893340346
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_19
+  - first:
+      213: -4660859348512410695
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_20
+  - first:
+      213: 4947956755924039437
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_21
+  - first:
+      213: 694373681788001847
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_22
+  - first:
+      213: 642238308014325902
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_23
+  - first:
+      213: 5498298384137369637
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_24
+  - first:
+      213: 820124762648354016
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_25
+  - first:
+      213: 7425399049611814501
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_26
+  - first:
+      213: 3290148192572926285
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_27
+  - first:
+      213: 4648873504786623462
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_28
+  - first:
+      213: -2249189202897539115
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_29
+  - first:
+      213: -1770356369357892980
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_30
+  - first:
+      213: 6337464791452562570
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_31
+  - first:
+      213: -1677327779143798920
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_32
+  - first:
+      213: -4863170628492054001
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_33
+  - first:
+      213: 1228847776182071988
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_34
+  - first:
+      213: 5595267619970672948
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_35
+  - first:
+      213: 2068757506693856505
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_36
+  - first:
+      213: -7155319976043679433
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_37
+  - first:
+      213: 6153687875472420344
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_38
+  - first:
+      213: -5543900810313009646
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_39
+  - first:
+      213: -1143104655573689487
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_40
+  - first:
+      213: -6401218471348091146
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_41
+  - first:
+      213: 826817590216296898
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_42
+  - first:
+      213: 3310678837675796105
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_43
+  - first:
+      213: 7239491931293204094
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_44
+  - first:
+      213: -9144414235897422563
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_50
+  - first:
+      213: -1584681436503809554
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_51
+  - first:
+      213: -6063162365634415971
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_52
+  - first:
+      213: -4005568453034948595
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_53
+  - first:
+      213: 8169004363269126922
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_54
+  - first:
+      213: 3963479258665839176
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_55
+  - first:
+      213: 1352119657071572845
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_56
+  - first:
+      213: 1763809208332071732
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_57
+  - first:
+      213: 7053558839665086954
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_58
+  - first:
+      213: 8294423657837516012
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_59
+  - first:
+      213: 9055067311203611782
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_60
+  - first:
+      213: -662127950212371458
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_61
+  - first:
+      213: -1869189344017115097
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_62
+  - first:
+      213: 4179195379399874388
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_63
+  - first:
+      213: -5456307028768245567
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_64
+  - first:
+      213: 7047358038884859850
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_65
+  - first:
+      213: -1684360181063700539
+    second: Mobile - JoJos Pitter-Patter Pop - Giorno Giovanna & Gold Experience_66
+  - first:
+      213: -82718471147441984
+    second: Spritesheet - Giorno Giovanna_0
+  - first:
+      213: -7424680449370778430
+    second: Spritesheet - Giorno Giovanna_1
+  - first:
+      213: -7477837500998564514
+    second: Spritesheet - Giorno Giovanna_2
+  - first:
+      213: -5646571332982504922
+    second: Spritesheet - Giorno Giovanna_3
+  - first:
+      213: 6338437044573750511
+    second: Spritesheet - Giorno Giovanna_4
+  - first:
+      213: 8877207873587794828
+    second: Spritesheet - Giorno Giovanna_5
+  - first:
+      213: -1928093140273788028
+    second: Spritesheet - Giorno Giovanna_6
+  - first:
+      213: -3678419417846701409
+    second: Spritesheet - Giorno Giovanna_7
+  - first:
+      213: -4340043771549801863
+    second: Spritesheet - Giorno Giovanna_8
+  - first:
+      213: 4690098468205600130
+    second: Spritesheet - Giorno Giovanna_9
+  - first:
+      213: 753228800139885902
+    second: Spritesheet - Giorno Giovanna_10
+  - first:
+      213: 8943265923879641797
+    second: Spritesheet - Giorno Giovanna_11
+  - first:
+      213: 1534363235286388906
+    second: Spritesheet - Giorno Giovanna_12
+  - first:
+      213: 3932864086055667863
+    second: Spritesheet - Giorno Giovanna_13
+  - first:
+      213: -5926382555915590609
+    second: Spritesheet - Giorno Giovanna_14
+  - first:
+      213: 3033261581171881794
+    second: Spritesheet - Giorno Giovanna_15
+  - first:
+      213: -5517993376076091266
+    second: Spritesheet - Giorno Giovanna_16
+  - first:
+      213: -5434462294607374987
+    second: Spritesheet - Giorno Giovanna_17
+  - first:
+      213: 8494139269025916704
+    second: Spritesheet - Giorno Giovanna_18
+  - first:
+      213: -8175902042820900079
+    second: Spritesheet - Giorno Giovanna_19
+  - first:
+      213: -6758739399811867273
+    second: Spritesheet - Giorno Giovanna_20
+  - first:
+      213: 4348178501775377572
+    second: Spritesheet - Giorno Giovanna_21
+  - first:
+      213: 286836630849541834
+    second: Spritesheet - Giorno Giovanna_22
+  - first:
+      213: 3226386230199122125
+    second: Spritesheet - Giorno Giovanna_23
+  - first:
+      213: -5395499314004120365
+    second: Spritesheet - Giorno Giovanna_24
+  - first:
+      213: -3959807325385024703
+    second: Spritesheet - Giorno Giovanna_25
+  - first:
+      213: -3856700890373192755
+    second: Spritesheet - Giorno Giovanna_26
+  - first:
+      213: 7924063752417789626
+    second: Spritesheet - Giorno Giovanna_27
+  - first:
+      213: 1591069077014240287
+    second: Spritesheet - Giorno Giovanna_28
+  - first:
+      213: 7771024139190590639
+    second: Spritesheet - Giorno Giovanna_29
+  - first:
+      213: 1042973804933423585
+    second: Spritesheet - Giorno Giovanna_30
+  - first:
+      213: -6113589542283058525
+    second: Spritesheet - Giorno Giovanna_31
+  - first:
+      213: 2963213156151141160
+    second: Spritesheet - Giorno Giovanna_32
+  - first:
+      213: -7032407033420800929
+    second: Spritesheet - Giorno Giovanna_33
+  - first:
+      213: 6887805896819939856
+    second: Spritesheet - Giorno Giovanna_34
+  - first:
+      213: -8814253954668127724
+    second: Spritesheet - Giorno Giovanna_35
+  - first:
+      213: 8671378704363647006
+    second: Spritesheet - Giorno Giovanna_36
+  - first:
+      213: -3769975776238004743
+    second: Spritesheet - Giorno Giovanna_37
+  - first:
+      213: -8787330494957970097
+    second: Spritesheet - Giorno Giovanna_38
+  - first:
+      213: -1931052628037138994
+    second: Spritesheet - Giorno Giovanna_39
+  - first:
+      213: -211641341546058719
+    second: Spritesheet - Giorno Giovanna_40
+  - first:
+      213: 1797044616574352810
+    second: Spritesheet - Giorno Giovanna_41
+  - first:
+      213: -4424587581062613448
+    second: Spritesheet - Giorno Giovanna_42
+  - first:
+      213: 4769216933641629945
+    second: Spritesheet - Giorno Giovanna_43
+  - first:
+      213: 6577742066455052735
+    second: Spritesheet - Giorno Giovanna_44
+  - first:
+      213: 7670933899761565319
+    second: Spritesheet - Giorno Giovanna_45
+  - first:
+      213: -4389410512303668584
+    second: Spritesheet - Giorno Giovanna_46
+  - first:
+      213: 7825396243776568692
+    second: Spritesheet - Giorno Giovanna_47
+  - first:
+      213: -4043643101991085430
+    second: Spritesheet - Giorno Giovanna_48
+  - first:
+      213: 8517931116069070330
+    second: Spritesheet - Giorno Giovanna_49
+  - first:
+      213: 4194327925414262015
+    second: Spritesheet - Giorno Giovanna_50
+  - first:
+      213: -701100266550375304
+    second: Spritesheet - Giorno Giovanna_51
+  - first:
+      213: 41010206211452837
+    second: Spritesheet - Giorno Giovanna_52
+  - first:
+      213: -5645892671169972752
+    second: Spritesheet - Giorno Giovanna_53
+  - first:
+      213: -7248242132530016978
+    second: Spritesheet - Giorno Giovanna_54
+  - first:
+      213: 8759060558882727260
+    second: Spritesheet - Giorno Giovanna_55
+  - first:
+      213: 8951071342229779768
+    second: Spritesheet - Giorno Giovanna_56
+  - first:
+      213: -7803117726630453665
+    second: Spritesheet - Giorno Giovanna_57
+  - first:
+      213: 1017525611623726276
+    second: Spritesheet - Giorno Giovanna_58
+  - first:
+      213: -5359191628716125500
+    second: Spritesheet - Giorno Giovanna_59
+  - first:
+      213: -6491368229316360640
+    second: Spritesheet - Giorno Giovanna_60
+  - first:
+      213: 3689242473085682811
+    second: Spritesheet - Giorno Giovanna_61
+  - first:
+      213: -6929144319220768554
+    second: Spritesheet - Giorno Giovanna_62
+  - first:
+      213: -4264453699742890918
+    second: Spritesheet - Giorno Giovanna_63
+  - first:
+      213: -2938317268750420276
+    second: Spritesheet - Giorno Giovanna_64
+  - first:
+      213: -6203662911751519740
+    second: Spritesheet - Giorno Giovanna_65
+  - first:
+      213: 8212352481683895169
+    second: Spritesheet - Giorno Giovanna_66
+  - first:
+      213: -2727009202369732344
+    second: Spritesheet - Giorno Giovanna_67
+  - first:
+      213: -506852580249107960
+    second: Spritesheet - Giorno Giovanna_68
+  - first:
+      213: -3331262200809840974
+    second: Spritesheet - Giorno Giovanna_69
+  - first:
+      213: -1702660985382563247
+    second: Spritesheet - Giorno Giovanna_70
+  - first:
+      213: 884855940805395894
+    second: Spritesheet - Giorno Giovanna_71
+  - first:
+      213: -3562384755605241600
+    second: Spritesheet - Giorno Giovanna_72
+  - first:
+      213: -8023853639076279724
+    second: Spritesheet - Giorno Giovanna_73
+  - first:
+      213: 4132598077622635578
+    second: Spritesheet - Giorno Giovanna_74
+  - first:
+      213: 5468970789723905866
+    second: Spritesheet - Giorno Giovanna_75
+  - first:
+      213: -2300649292804209206
+    second: Spritesheet - Giorno Giovanna_76
+  - first:
+      213: -8448793901101090318
+    second: Spritesheet - Giorno Giovanna_77
+  - first:
+      213: -1896088601571543237
+    second: Spritesheet - Giorno Giovanna_78
+  - first:
+      213: 9014150455640592207
+    second: Spritesheet - Giorno Giovanna_79
+  - first:
+      213: 1777278425553936001
+    second: Spritesheet - Giorno Giovanna_80
+  - first:
+      213: -9185894436884218342
+    second: Spritesheet - Giorno Giovanna_81
+  - first:
+      213: 4639561292682625616
+    second: Spritesheet - Giorno Giovanna_82
+  - first:
+      213: 3427557885423459740
+    second: Spritesheet - Giorno Giovanna_83
+  - first:
+      213: -1219920957110449732
+    second: Spritesheet - Giorno Giovanna_84
+  - first:
+      213: 6200295855120432858
+    second: Spritesheet - Giorno Giovanna_85
+  - first:
+      213: 3057198888699633275
+    second: Spritesheet - Giorno Giovanna_86
+  - first:
+      213: -830715177298379334
+    second: Spritesheet - Giorno Giovanna_87
+  - first:
+      213: -7195480919762370143
+    second: Spritesheet - Giorno Giovanna_88
+  - first:
+      213: -988943788517223036
+    second: Spritesheet - Giorno Giovanna_89
+  - first:
+      213: 118796078612107354
+    second: Spritesheet - Giorno Giovanna_90
+  - first:
+      213: 97460399620087966
+    second: Spritesheet - Giorno Giovanna_91
+  - first:
+      213: 3844691759304851148
+    second: Spritesheet - Giorno Giovanna_92
+  - first:
+      213: 1427112205767392946
+    second: Spritesheet - Giorno Giovanna_93
+  - first:
+      213: 454192316034741103
+    second: Spritesheet - Giorno Giovanna_94
+  - first:
+      213: -334157842990980822
+    second: Spritesheet - Giorno Giovanna_95
+  - first:
+      213: 8184528478814979603
+    second: Spritesheet - Giorno Giovanna_96
+  - first:
+      213: -6838079572043381463
+    second: Spritesheet - Giorno Giovanna_97
+  - first:
+      213: -5662906501899167461
+    second: Spritesheet - Giorno Giovanna_98
+  - first:
+      213: 6657022485761676009
+    second: Spritesheet - Giorno Giovanna_99
+  - first:
+      213: 5929682483106930857
+    second: Spritesheet - Giorno Giovanna_100
+  - first:
+      213: -1948896388260168905
+    second: Spritesheet - Giorno Giovanna_101
+  - first:
+      213: 3479952097276679199
+    second: Spritesheet - Giorno Giovanna_102
+  - first:
+      213: 6465291672628292326
+    second: Spritesheet - Giorno Giovanna_103
+  - first:
+      213: -4357471984721235978
+    second: Spritesheet - Giorno Giovanna_104
+  - first:
+      213: 3517173482098533299
+    second: Spritesheet - Giorno Giovanna_105
+  - first:
+      213: -7469644237037849871
+    second: Spritesheet - Giorno Giovanna_106
+  - first:
+      213: -3444136282226518828
+    second: Spritesheet - Giorno Giovanna_107
+  - first:
+      213: 2534942127650092480
+    second: Spritesheet - Giorno Giovanna_108
+  - first:
+      213: 5519915134632057177
+    second: Spritesheet - Giorno Giovanna_109
+  - first:
+      213: -994893152866083078
+    second: Spritesheet - Giorno Giovanna_110
+  - first:
+      213: -1603988540037092524
+    second: Spritesheet - Giorno Giovanna_111
+  - first:
+      213: -6733871668003397967
+    second: Spritesheet - Giorno Giovanna_112
+  - first:
+      213: 5684138392872929879
+    second: Spritesheet - Giorno Giovanna_113
+  - first:
+      213: 358569918990477840
+    second: Spritesheet - Giorno Giovanna_114
+  - first:
+      213: -2889126547995946270
+    second: Spritesheet - Giorno Giovanna_115
+  - first:
+      213: 6201403488422277404
+    second: Spritesheet - Giorno Giovanna_116
+  - first:
+      213: 1153987251445249898
+    second: Spritesheet - Giorno Giovanna_117
+  - first:
+      213: -5612457232341638004
+    second: Spritesheet - Giorno Giovanna_118
+  - first:
+      213: 1271548466999106006
+    second: Spritesheet - Giorno Giovanna_119
+  - first:
+      213: 1481465355712105589
+    second: Spritesheet - Giorno Giovanna_120
+  - first:
+      213: 5685648246568067986
+    second: Spritesheet - Giorno Giovanna_121
+  - first:
+      213: -2309285603305173947
+    second: Spritesheet - Giorno Giovanna_122
+  - first:
+      213: 4621528321122617184
+    second: Spritesheet - Giorno Giovanna_123
+  - first:
+      213: -5747345370074925541
+    second: Spritesheet - Giorno Giovanna_124
+  - first:
+      213: -8870792420749638876
+    second: Spritesheet - Giorno Giovanna_125
+  - first:
+      213: -3899845855150736282
+    second: Spritesheet - Giorno Giovanna_126
+  - first:
+      213: 1519907099975147767
+    second: Spritesheet - Giorno Giovanna_127
+  - first:
+      213: -4664296627882201202
+    second: Spritesheet - Giorno Giovanna_128
+  - first:
+      213: 7238264096294883178
+    second: Spritesheet - Giorno Giovanna_129
+  - first:
+      213: 8250887311734370555
+    second: Spritesheet - Giorno Giovanna_130
+  - first:
+      213: -5469412127973062190
+    second: Spritesheet - Giorno Giovanna_131
+  - first:
+      213: 7769613568249512629
+    second: Spritesheet - Giorno Giovanna_132
+  - first:
+      213: 4729897454201703076
+    second: Spritesheet - Giorno Giovanna_133
+  - first:
+      213: 1921175794704266024
+    second: Spritesheet - Giorno Giovanna_134
+  - first:
+      213: -5787063828505209561
+    second: Spritesheet - Giorno Giovanna_135
+  - first:
+      213: 2533895695687831404
+    second: Spritesheet - Giorno Giovanna_136
+  - first:
+      213: 1433959339283184813
+    second: Spritesheet - Giorno Giovanna_137
+  - first:
+      213: -5020356270496563905
+    second: Spritesheet - Giorno Giovanna_138
+  - first:
+      213: 6431214902148615998
+    second: Spritesheet - Giorno Giovanna_139
+  - first:
+      213: 5303228717908580115
+    second: Spritesheet - Giorno Giovanna_140
+  - first:
+      213: 8584054383493570301
+    second: Spritesheet - Giorno Giovanna_141
+  - first:
+      213: 8393867267534119827
+    second: Spritesheet - Giorno Giovanna_142
+  - first:
+      213: -4667115117470791398
+    second: Spritesheet - Giorno Giovanna_143
+  - first:
+      213: 2234052029857553610
+    second: Spritesheet - Giorno Giovanna_144
+  - first:
+      213: -8119948053125757089
+    second: Spritesheet - Giorno Giovanna_145
+  - first:
+      213: -1239894781941947402
+    second: Spritesheet - Giorno Giovanna_146
+  - first:
+      213: -4631978616589196268
+    second: Spritesheet - Giorno Giovanna_147
+  - first:
+      213: 6985684907673010221
+    second: Spritesheet - Giorno Giovanna_148
+  - first:
+      213: -7158471796843888523
+    second: Spritesheet - Giorno Giovanna_149
+  - first:
+      213: 8362007103823083080
+    second: Spritesheet - Giorno Giovanna_150
+  - first:
+      213: -5166042870016251776
+    second: Spritesheet - Giorno Giovanna_151
+  - first:
+      213: -9027753115025889386
+    second: Spritesheet - Giorno Giovanna_152
+  - first:
+      213: 1569612567757363435
+    second: Spritesheet - Giorno Giovanna_153
+  - first:
+      213: -2185455233437917031
+    second: Spritesheet - Giorno Giovanna_154
+  - first:
+      213: 7905629685993661605
+    second: Spritesheet - Giorno Giovanna_155
+  - first:
+      213: -8475234130573109094
+    second: Spritesheet - Giorno Giovanna_156
+  - first:
+      213: 7409536559797821049
+    second: Spritesheet - Giorno Giovanna_157
+  - first:
+      213: 3834342365508744247
+    second: Spritesheet - Giorno Giovanna_158
+  - first:
+      213: 2505346323400069568
+    second: Spritesheet - Giorno Giovanna_159
+  - first:
+      213: 1221065703042239045
+    second: Spritesheet - Giorno Giovanna_160
+  - first:
+      213: 1668831143206573769
+    second: Spritesheet - Giorno Giovanna_161
+  - first:
+      213: 111999481356023401
+    second: Spritesheet - Giorno Giovanna_162
+  - first:
+      213: 1193670421507018213
+    second: Spritesheet - Giorno Giovanna_163
+  - first:
+      213: -8817277448528165852
+    second: Spritesheet - Giorno Giovanna_164
+  - first:
+      213: -5069944772179357017
+    second: Spritesheet - Giorno Giovanna_165
+  - first:
+      213: -6922257956280627843
+    second: Spritesheet - Giorno Giovanna_166
+  - first:
+      213: 3479268750020570694
+    second: Spritesheet - Giorno Giovanna_167
+  - first:
+      213: 933482166314291402
+    second: Spritesheet - Giorno Giovanna_168
+  - first:
+      213: 7333192032604537542
+    second: Spritesheet - Giorno Giovanna_169
+  - first:
+      213: 7556320702633276394
+    second: Spritesheet - Giorno Giovanna_170
+  - first:
+      213: 6595852009763767131
+    second: Spritesheet - Giorno Giovanna_171
+  - first:
+      213: -5786676312915492309
+    second: Spritesheet - Giorno Giovanna_172
+  - first:
+      213: 2029864443609347107
+    second: Spritesheet - Giorno Giovanna_173
+  - first:
+      213: -5718568282606696262
+    second: Spritesheet - Giorno Giovanna_174
+  - first:
+      213: -2899473063971909839
+    second: Spritesheet - Giorno Giovanna_175
+  - first:
+      213: 4973419399008641532
+    second: Spritesheet - Giorno Giovanna_176
+  - first:
+      213: 1185451072493886320
+    second: Spritesheet - Giorno Giovanna_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2687
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0b4ee1dff1adef0800000000000000
+      internalID: -82718471147441984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_1
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1672
+        width: 1073
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4977c087c36f890800000000000000
+      internalID: -7424680449370778430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2429
+        width: 224
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55c2e08962693890800000000000000
+      internalID: -7477837500998564514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2628
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6228caa1a4953a1b0800000000000000
+      internalID: -5646571332982504922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2625
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4cef8d8e6a6f750800000000000000
+      internalID: 6338437044573750511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2435
+        width: 215
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83508e078d223b70800000000000000
+      internalID: 8877207873587794828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_6
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2636
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b0d1021890e35e0800000000000000
+      internalID: -1928093140273788028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_7
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 2257
+        width: 167
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9229505701a3fcc0800000000000000
+      internalID: -3678419417846701409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_8
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2579
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a02f2f2115c3c0800000000000000
+      internalID: -4340043771549801863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2534
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d9ff625b3961140800000000000000
+      internalID: 4690098468205600130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2575
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7eea5a91047a00800000000000000
+      internalID: 753228800139885902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2526
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a3bc69fcdc1c70800000000000000
+      internalID: 8943265923879641797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_12
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2466
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa01aabab372b4510800000000000000
+      internalID: 1534363235286388906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_13
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2459
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7984d3f8c07549630800000000000000
+      internalID: 3932864086055667863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2462
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f246497f67241cda0800000000000000
+      internalID: -5926382555915590609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_15
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2393
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f690565f481a20800000000000000
+      internalID: 3033261581171881794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2397
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70b60292462c63b0800000000000000
+      internalID: -5517993376076091266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2314
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5755ca80659e494b0800000000000000
+      internalID: -5434462294607374987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2327
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0276cfa49ae31e570800000000000000
+      internalID: 8494139269025916704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2334
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b054be86c598e80800000000000000
+      internalID: -8175902042820900079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2335
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dd6c043522432a0800000000000000
+      internalID: -6758739399811867273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2338
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4cf4a4f45d75c30800000000000000
+      internalID: 4348178501775377572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2334
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac65b52656c0bf300800000000000000
+      internalID: 286836630849541834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2339
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8fa37ae2d66cc20800000000000000
+      internalID: 3226386230199122125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2335
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcabe2e5f55f15b0800000000000000
+      internalID: -5395499314004120365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_25
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2335
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b9f6fa730fb09c0800000000000000
+      internalID: -3959807325385024703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_26
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2324
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc38f5059fe3a7ac0800000000000000
+      internalID: -3856700890373192755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2261
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab64964dffde7fd60800000000000000
+      internalID: 7924063752417789626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2264
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cda8c45ec941610800000000000000
+      internalID: 1591069077014240287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2216
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facd07d284938db60800000000000000
+      internalID: 7771024139190590639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_30
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2266
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e128115623697e00800000000000000
+      internalID: 1042973804933423585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_31
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2268
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2eca5d3ba282ba0800000000000000
+      internalID: -6113589542283058525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_32
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2281
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823272e6aa27f1920800000000000000
+      internalID: 2963213156151141160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_33
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2260
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9ef8ff0fd76e90800000000000000
+      internalID: -7032407033420800929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2273
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a1bc158f6669f50800000000000000
+      internalID: 6887805896819939856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2187
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a9ce76aba7da580800000000000000
+      internalID: -8814253954668127724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2190
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e107b7a1dfce65870800000000000000
+      internalID: 8671378704363647006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2207
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59185710b5eabc0800000000000000
+      internalID: -3769975776238004743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_38
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2201
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d921cd8712d0680800000000000000
+      internalID: -8787330494957970097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_39
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2194
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5034fadd58335e0800000000000000
+      internalID: -1931052628037138994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_40
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2189
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c2c593259101df0800000000000000
+      internalID: -211641341546058719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_41
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1796
+        width: 266
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad3170ce8260f810800000000000000
+      internalID: 1797044616574352810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_42
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2117
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83678299905b892c0800000000000000
+      internalID: -4424587581062613448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_43
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2131
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0bc726889af2240800000000000000
+      internalID: 4769216933641629945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_44
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2175
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1823f1f85d84b50800000000000000
+      internalID: 6577742066455052735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2137
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3ace4db1a47a60800000000000000
+      internalID: 7670933899761565319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2142
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89246c8256ea513c0800000000000000
+      internalID: -4389410512303668584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_47
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2157
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d7af84c64699c60800000000000000
+      internalID: 7825396243776568692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_48
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2113
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8adc5bd50812e7c0800000000000000
+      internalID: -4043643101991085430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_49
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2128
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af52b8a5835c53670800000000000000
+      internalID: 8517931116069070330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2137
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff471d1960f353a30800000000000000
+      internalID: 4194327925414262015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_51
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2132
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c455ca5013546f0800000000000000
+      internalID: -701100266550375304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2104
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af2665b092b19000800000000000000
+      internalID: 41010206211452837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2108
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5beee5782c5a1b0800000000000000
+      internalID: -5645892671169972752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2073
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d478cee22196b90800000000000000
+      internalID: -7248242132530016978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2075
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55e65abb2f6e8970800000000000000
+      internalID: 8759060558882727260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_56
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2058
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835f8c006f7983c70800000000000000
+      internalID: 8951071342229779768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2067
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e53a335c1c5b390800000000000000
+      internalID: -7803117726630453665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_58
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2069
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccb1b6172afe1e00800000000000000
+      internalID: 1017525611623726276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_59
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2057
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d02f9b9350a5b0800000000000000
+      internalID: -5359191628716125500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2037
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0468759fcf60ae5a0800000000000000
+      internalID: -6491368229316360640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_61
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1994
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744e8a9b72d23330800000000000000
+      internalID: 3689242473085682811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1979
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d02e6f24fbb6df90800000000000000
+      internalID: -6929144319220768554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1980
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5489b144fd91d4c0800000000000000
+      internalID: -4264453699742890918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1983
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc63cbe03000937d0800000000000000
+      internalID: -2938317268750420276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_65
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1992
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40209ce337928e9a0800000000000000
+      internalID: -6203662911751519740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_66
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1993
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183f019321328f170800000000000000
+      internalID: 8212352481683895169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_67
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1992
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801e7892497b72ad0800000000000000
+      internalID: -2727009202369732344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_68
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1918
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80203c0834c47f8f0800000000000000
+      internalID: -506852580249107960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_69
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1959
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1b0b9daaf4c1d0800000000000000
+      internalID: -3331262200809840974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_70
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1914
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1521b59dadeee58e0800000000000000
+      internalID: -1702660985382563247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_71
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1921
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5891d3ac3a74c00800000000000000
+      internalID: 884855940805395894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_72
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1934
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00102e860fddf8ec0800000000000000
+      internalID: -3562384755605241600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_73
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1910
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a0221a0ab85a090800000000000000
+      internalID: -8023853639076279724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_74
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1855
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cc8206e00f95930800000000000000
+      internalID: 4132598077622635578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1871
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f1b7815ffa5eb40800000000000000
+      internalID: 5468970789723905866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_76
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1784
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5c6a558a37210e0800000000000000
+      internalID: -2300649292804209206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_77
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1809
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9f168e5badfba80800000000000000
+      internalID: -8448793901101090318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_78
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1376
+        width: 160
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3739a8767dbfa5e0800000000000000
+      internalID: -1896088601571543237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_79
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1371
+        width: 318
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f02649412b81d70800000000000000
+      internalID: 9014150455640592207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_80
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1773
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e9b16cf492aa810800000000000000
+      internalID: 1777278425553936001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_81
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1759
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e7749bda5258080800000000000000
+      internalID: -9185894436884218342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_82
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1730
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052000c0a68036040800000000000000
+      internalID: 4639561292682625616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_83
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1691
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d11cf9cb1219f20800000000000000
+      internalID: 3427557885423459740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_84
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1690
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb980695a58f11fe0800000000000000
+      internalID: -1219920957110449732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_85
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1701
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb7caca30eb0650800000000000000
+      internalID: 6200295855120432858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_86
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1223
+        width: 478
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e19a8013a5d6a20800000000000000
+      internalID: 3057198888699633275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_87
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1680
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdba9392f4b874f0800000000000000
+      internalID: -830715177298379334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_88
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1693
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1867d0a34842c90800000000000000
+      internalID: -7195480919762370143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4851a9e2dd09642f0800000000000000
+      internalID: -988943788517223036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1413
+        width: 208
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a505262776c06a100800000000000000
+      internalID: 118796078612107354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_91
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1606
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90e50397bf3a5100800000000000000
+      internalID: 97460399620087966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_92
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1611
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccebc38f8c61b5530800000000000000
+      internalID: 3844691759304851148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_93
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1553
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beb36f6dfe1ec310800000000000000
+      internalID: 1427112205767392946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_94
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1561
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6376f8418d9d4600800000000000000
+      internalID: 454192316034741103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_95
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1504
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21ac955635dc5bf0800000000000000
+      internalID: -334157842990980822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_96
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1504
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c5d9b949459170800000000000000
+      internalID: 8184528478814979603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_97
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1438
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925cf72ebd24a11a0800000000000000
+      internalID: -6838079572043381463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_98
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1434
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19dc063a805961b0800000000000000
+      internalID: -5662906501899167461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_99
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1375
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2dc9d2eae726c50800000000000000
+      internalID: 6657022485761676009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_100
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1375
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0e1743dc67a4250800000000000000
+      internalID: 5929682483106930857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_101
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1321
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf5b18f0124f4e0800000000000000
+      internalID: -1948896388260168905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_102
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1321
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f145d81bef54b4030800000000000000
+      internalID: 3479952097276679199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_103
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1325
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaec4c858459b950800000000000000
+      internalID: 6465291672628292326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_104
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1323
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff69f711562783c0800000000000000
+      internalID: -4357471984721235978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_105
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 748
+        width: 427
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b328eda5a28fc030800000000000000
+      internalID: 3517173482098533299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_106
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 994
+        width: 185
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2b0dc642e765890800000000000000
+      internalID: -7469644237037849871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_107
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 925
+        width: 413
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d49ad39c48f330d0800000000000000
+      internalID: -3444136282226518828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_108
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1255
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b1c43f6ced2320800000000000000
+      internalID: 2534942127650092480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_109
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1226
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959db06b19daa9c40800000000000000
+      internalID: 5519915134632057177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_110
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1246
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afed2f9d2fd6132f0800000000000000
+      internalID: -994893152866083078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1248
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45baa4fcbec7db9e0800000000000000
+      internalID: -1603988540037092524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_112
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1192
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be1791456b7c82a0800000000000000
+      internalID: -6733871668003397967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_113
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1186
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ac951a0cd12ee40800000000000000
+      internalID: 5684138392872929879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_114
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1189
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a61980175e9f400800000000000000
+      internalID: 358569918990477840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_115
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 1032
+        width: 58
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e21d8b36b2c7e7d0800000000000000
+      internalID: -2889126547995946270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_116
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1180
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c113744cd9fcf0650800000000000000
+      internalID: 6201403488422277404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_117
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 194
+        width: 476
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6739b58a49c30010800000000000000
+      internalID: 1153987251445249898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_118
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 1002
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84643d12eb8c12b0800000000000000
+      internalID: -5612457232341638004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_119
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1115
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99c22089275a110800000000000000
+      internalID: 1271548466999106006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_120
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c844254e83f8410800000000000000
+      internalID: 1481465355712105589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_121
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1120
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2932386d4fa77ee40800000000000000
+      internalID: 5685648246568067986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_122
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1110
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c421a9af4c3ffd0800000000000000
+      internalID: -2309285603305173947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1069
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067cbeba587f22040800000000000000
+      internalID: 4621528321122617184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_124
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1066
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16b23f26d35d30b0800000000000000
+      internalID: -5747345370074925541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_125
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1056
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4238df4fa4d94e480800000000000000
+      internalID: -8870792420749638876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_126
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1060
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cf5f46bd6f0e9c0800000000000000
+      internalID: -3899845855150736282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_127
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 982
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ec91647bc71510800000000000000
+      internalID: 1519907099975147767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_128
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1011
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f6700fde6154fb0800000000000000
+      internalID: -4664296627882201202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_129
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1007
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fce1a78da737460800000000000000
+      internalID: 7238264096294883178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_130
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 999
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf074b18b4a018270800000000000000
+      internalID: 8250887311734370555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_131
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 848
+        width: 58
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9c3f5d5aeb814b0800000000000000
+      internalID: -5469412127973062190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_132
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 672
+        width: 209
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b24199006633db60800000000000000
+      internalID: 7769613568249512629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_133
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 803
+        width: 141
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa87bdaca8f3a140800000000000000
+      internalID: 4729897454201703076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_134
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 589
+        width: 203
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8233d6ad43369aa10800000000000000
+      internalID: 1921175794704266024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_135
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 854
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7255f61fb1830bfa0800000000000000
+      internalID: -5787063828505209561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_136
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 531
+        width: 278
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f4d57c5b43a2320800000000000000
+      internalID: 2533895695687831404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_137
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 610
+        width: 87
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacf350fb6276e310800000000000000
+      internalID: 1433959339283184813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_138
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 344
+        width: 244
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3db52b229c145ab0800000000000000
+      internalID: -5020356270496563905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_139
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 524
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f44c421e3404950800000000000000
+      internalID: 6431214902148615998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_140
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 338
+        width: 196
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3175795db6ad89940800000000000000
+      internalID: 5303228717908580115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_141
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 423
+        width: 231
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed4c44bffa02770800000000000000
+      internalID: 8584054383493570301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_142
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 338
+        width: 778
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3936625aec10d7470800000000000000
+      internalID: 8393867267534119827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_143
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 453
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a194c4137831b3fb0800000000000000
+      internalID: -4667115117470791398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_144
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 329
+        width: 105
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc56611c72f00f10800000000000000
+      internalID: 2234052029857553610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_145
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 297
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5780da5446205f80800000000000000
+      internalID: -8119948053125757089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f36d7bd3420bcee0800000000000000
+      internalID: -1239894781941947402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 250
+        width: 101
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414eefe4df7e7bfb0800000000000000
+      internalID: -4631978616589196268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_148
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 253
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2048aa696322f060800000000000000
+      internalID: 6985684907673010221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_149
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 254
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570c776f3dff7ac90800000000000000
+      internalID: -7158471796843888523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 254
+        width: 141
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846faa83821db0470800000000000000
+      internalID: 8362007103823083080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_151
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 254
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ed3e61678e48b0800000000000000
+      internalID: -5166042870016251776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_152
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 185
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a4fa7f5af6b280800000000000000
+      internalID: -9027753115025889386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_153
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 185
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be89a20705268c510800000000000000
+      internalID: 1569612567757363435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_154
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 184
+        width: 111
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9902a625b04bba1e0800000000000000
+      internalID: -2185455233437917031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_155
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 47
+        width: 208
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a46f67405076bd60800000000000000
+      internalID: 7905629685993661605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_156
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 148
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a985ce2467be16a80800000000000000
+      internalID: -8475234130573109094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_157
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 148
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ed4056e36f3d660800000000000000
+      internalID: 7409536559797821049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_158
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 126
+        width: 216
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7343163f012563530800000000000000
+      internalID: 3834342365508744247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_159
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 134
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1979d0537c4c220800000000000000
+      internalID: 2505346323400069568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_160
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 125
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ace3599c812f010800000000000000
+      internalID: 1221065703042239045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_161
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 134
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6dfe83511e82710800000000000000
+      internalID: 1668831143206573769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_162
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 133
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f0455fe6ed8100800000000000000
+      internalID: 111999481356023401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_163
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 133
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed01dc8ce4c09010800000000000000
+      internalID: 1193670421507018213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_164
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 133
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4248a6260ecb2a580800000000000000
+      internalID: -8817277448528165852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_165
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 133
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a296676710f3a9b0800000000000000
+      internalID: -5069944772179357017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_166
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 133
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d854080133fef90800000000000000
+      internalID: -6922257956280627843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_167
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 38
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ee7138e78d84030800000000000000
+      internalID: 3479268750020570694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_168
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 36
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0535f951564fc00800000000000000
+      internalID: 933482166314291402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_169
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 38
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c24e1dfc4bb4c560800000000000000
+      internalID: 7333192032604537542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_170
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 36
+        width: 122
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f269d4a17dd860800000000000000
+      internalID: 7556320702633276394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_171
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 36
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b530401e47c298b50800000000000000
+      internalID: 6595852009763767131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_172
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 36
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2241827d8891bfa0800000000000000
+      internalID: -5786676312915492309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_173
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 36
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324f78fe4f68b2c10800000000000000
+      internalID: 2029864443609347107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_174
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 36
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8896bf17093a0b0800000000000000
+      internalID: -5718568282606696262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_175
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 28
+        width: 118
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f04224c9003c7d0800000000000000
+      internalID: -2899473063971909839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_176
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 36
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf162f4d792250540800000000000000
+      internalID: 4973419399008641532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Giorno Giovanna_177
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 36
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b9a9a3871937010800000000000000
+      internalID: 1185451072493886320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

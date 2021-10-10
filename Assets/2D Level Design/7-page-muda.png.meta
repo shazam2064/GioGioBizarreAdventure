@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: aa5e5b4049058534f991927da0df99fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4352084163841217376
+    second: 7-page-muda_0
+  - first:
+      213: -2788805269425422919
+    second: 7-page-muda_1
+  - first:
+      213: 875864873609264398
+    second: 7-page-muda_2
+  - first:
+      213: 4171468015700823276
+    second: 7-page-muda_3
+  - first:
+      213: 1715040512110623028
+    second: 7-page-muda_4
+  - first:
+      213: 6855043871107234124
+    second: 7-page-muda_5
+  - first:
+      213: 2375256954320063704
+    second: 7-page-muda_6
+  - first:
+      213: -8403809723561489043
+    second: 7-page-muda_7
+  - first:
+      213: -3993545215019601030
+    second: 7-page-muda_8
+  - first:
+      213: 4463619599074048921
+    second: 7-page-muda_9
+  - first:
+      213: 2000067133124947909
+    second: 7-page-muda_10
+  - first:
+      213: 4165221363219261482
+    second: 7-page-muda_11
+  - first:
+      213: -3153181845610168208
+    second: 7-page-muda_12
+  - first:
+      213: -3719536736155800169
+    second: 7-page-muda_13
+  - first:
+      213: -6481657304975861364
+    second: 7-page-muda_14
+  - first:
+      213: 6837456392957673741
+    second: 7-page-muda_15
+  - first:
+      213: 3079412292412859933
+    second: 7-page-muda_16
+  - first:
+      213: -8152662312855301943
+    second: 7-page-muda_17
+  - first:
+      213: -4822940839013346040
+    second: 7-page-muda_18
+  - first:
+      213: 4362742642273278507
+    second: 7-page-muda_19
+  - first:
+      213: -4815620720804103961
+    second: 7-page-muda_20
+  - first:
+      213: 566500977729966409
+    second: 7-page-muda_21
+  - first:
+      213: 5200754344812441838
+    second: 7-page-muda_22
+  - first:
+      213: 1256116897162367458
+    second: 7-page-muda_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 7-page-muda_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 19
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063db5a1d75b56c30800000000000000
+      internalID: 4352084163841217376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-page-muda_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdf828126c2c49d0800000000000000
+      internalID: -2788805269425422919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-page-muda_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 6
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0df8b64672b72c00800000000000000
+      internalID: 875864873609264398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-page-muda_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 6
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec40c31f0804e930800000000000000
+      internalID: 4171468015700823276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-page-muda_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5
+        width: 121
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439f1c3524c0dc710800000000000000
+      internalID: 1715040512110623028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-page-muda_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc06848d9b96f020800000000000000
+      internalID: 2375256954320063704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

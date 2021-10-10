@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 36424582ca0c0f8478b66214ebf205e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1925579988882858645
+    second: Dacing KaKyon_0
+  - first:
+      213: -6448017076779322404
+    second: Dacing KaKyon_1
+  - first:
+      213: -195105985214023164
+    second: Dacing KaKyon_2
+  - first:
+      213: 3934031438359600366
+    second: Dacing KaKyon_3
+  - first:
+      213: 2975474063379180201
+    second: Dacing KaKyon_4
+  - first:
+      213: 5929837460167672243
+    second: Dacing KaKyon_5
+  - first:
+      213: 4594898073391485120
+    second: Dacing KaKyon_6
+  - first:
+      213: 8713019183476978187
+    second: Dacing KaKyon_7
+  - first:
+      213: -4165120604112707017
+    second: Dacing KaKyon_8
+  - first:
+      213: 6925004566173345598
+    second: Dacing KaKyon_9
+  - first:
+      213: -9152549479271125483
+    second: Dacing KaKyon_10
+  - first:
+      213: -941008690578787475
+    second: Dacing KaKyon_11
+  - first:
+      213: -6692624651787809310
+    second: Dacing KaKyon_12
+  - first:
+      213: 5432672004030717901
+    second: Dacing KaKyon_13
+  - first:
+      213: 718879822219622924
+    second: Dacing KaKyon_14
+  - first:
+      213: 5744323935860748573
+    second: Dacing KaKyon_15
+  - first:
+      213: 9149463169240591406
+    second: Dacing KaKyon_16
+  - first:
+      213: 8574928682934626368
+    second: Dacing KaKyon_17
+  - first:
+      213: -5481112395081731401
+    second: Dacing KaKyon_18
+  - first:
+      213: -7784727088723165971
+    second: Dacing KaKyon_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dacing KaKyon_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592a6f73cc809ba10800000000000000
+      internalID: 1925579988882858645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd37ae8b1aa0486a0800000000000000
+      internalID: -6448017076779322404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40af3c1e328da4df0800000000000000
+      internalID: -195105985214023164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 5
+        width: 75
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec94a2ffbc789630800000000000000
+      internalID: 3934031438359600366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 9
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaaa1a55e10b4920800000000000000
+      internalID: 2975474063379180201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 10
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1491d90c30b4250800000000000000
+      internalID: 5929837460167672243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_6
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 10
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c050a3f37b54cf30800000000000000
+      internalID: 4594898073391485120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_7
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 10
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b023f48a8ccdae870800000000000000
+      internalID: 8713019183476978187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_8
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 8
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732a339d0e48236c0800000000000000
+      internalID: -4165120604112707017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_9
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 7
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3768b276fe8a1060800000000000000
+      internalID: 6925004566173345598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_10
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 10
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eabdaadbc9bf080800000000000000
+      internalID: -9152549479271125483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_11
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 12
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63fe73e49dd0f2f0800000000000000
+      internalID: -941008690578787475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_12
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 0
+        width: 60
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4a2796550f13a0800000000000000
+      internalID: -6692624651787809310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_13
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 3
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd575776ab46b40800000000000000
+      internalID: 5432672004030717901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_14
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab897b369f9f900800000000000000
+      internalID: 718879822219622924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_15
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 3
+        width: 60
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11f0c75f20f7bf40800000000000000
+      internalID: 5744323935860748573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_16
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 7
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cea18c64c69fe70800000000000000
+      internalID: 9149463169240591406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_17
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 9
+        width: 114
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04860a88434400770800000000000000
+      internalID: 8574928682934626368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_18
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 9
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2b92d115d2fe3b0800000000000000
+      internalID: -5481112395081731401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dacing KaKyon_19
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 7
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7b4345f717f390800000000000000
+      internalID: -7784727088723165971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
